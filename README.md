@@ -55,10 +55,12 @@
 ---
 ## Arrays
 - Collection of variables of different datatypes.  
-- To add elements to an array  
-      > Push: will add elements at the end of the array.  
-      > unshift: will add elements at the beginning of the array.  
-- To remove elements from the array.  
-      > Pop: will remove the elements from the end of the array.  
-      > shift: will remove the elements from the beginning of the array.  
+> To add elements to an array
+>
+>>      Push: will add elements at the end of the array.  
+>>        unshift: will add elements at the beginning of the array.  
+> To remove elements from the array.  
+>
+>>      Pop: will remove the elements from the end of the array.  
+>>        shift: will remove the elements from the beginning of the array.  
 
