@@ -34,6 +34,15 @@
 ## Truthy and Falsy Values
 - A truthy value is considered to be true when encountered in a boolean context.
 - All values are truthy unless they are defined as falsy `Except: undefined, Null, 0, '', NaN`
-    
+---
+## Comparison Operator
+- Javascript has both strict and type-converting comparisons.  
+- A strict comparison (e.g., ===) is only true if the operands are of the same type and the contents match.   
+      ` E.g: console.log( 1 === 1) //Output: true;  console.log( 1 === '1') //Output: false; `  
+- A type-converting comparisons (e.g., ==) will convert the operand to same type before making the comparison.  
+      ` E.g: console.log( 1 == 1) //Output: true;  console.log( 1 == '1') //Output: true; `  
+- type-converting comparison will do type coercion.  
+- Type coercion is the process of converting value from one type to another (such as string to number, object to boolean, and so on).  
+            
     
     
