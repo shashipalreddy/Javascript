@@ -44,6 +44,11 @@
 - type-converting comparison will do type coercion.  
 - Type coercion is the process of converting value from one type to another (such as string to number, object to boolean, and so on). 
 - Always use the "===" strict operator to avoid the type coercion.
-            
-    
+
+---
+## Functions
+- function function_name(arguments)
+- DRY principle Don't repeat yourself  
+            `// Function Declaration: function WhatDoYouDO(job, firstName) `  
+            `// Funtion Expression: var WhatDoYouDO = function(job, firstName) `
     
