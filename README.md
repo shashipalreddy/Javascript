@@ -42,7 +42,8 @@
 - A type-converting comparisons (e.g., ==) will convert the operand to same type before making the comparison.  
       ` E.g: console.log( 1 == 1) //Output: true;  console.log( 1 == '1') //Output: true; `  
 - type-converting comparison will do type coercion.  
-- Type coercion is the process of converting value from one type to another (such as string to number, object to boolean, and so on).  
+- Type coercion is the process of converting value from one type to another (such as string to number, object to boolean, and so on). 
+- Always use the "===" strict operator to avoid the type coercion.
             
     
     
