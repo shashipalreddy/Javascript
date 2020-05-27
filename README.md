@@ -31,7 +31,9 @@
         1. single line comment: `//Single Line Comments`  
         2. Multiline Comments: `/* multiple line comments */`
 ---
-    
+## Truthy and Falsy Values
+- A truthy value is considered to be true when encountered in a boolean context.
+- All values are truthy unless they are defined as falsy `Except: undefined, Null, 0, '', NaN`
     
     
     
