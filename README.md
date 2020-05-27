@@ -54,7 +54,7 @@
 
 ---
 ## Arrays
-- Collection of variables of different datatypes.  
+Collection of variables of different datatypes.  
 > To add elements to an array
 >
 >>      Push: will add elements at the end of the array.  
